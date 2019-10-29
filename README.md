@@ -19,13 +19,13 @@ Will be use material: [zylon]
  - minRps:    0.000100
  - maxRps:    10000.000000
  - step:      0.001000 [m]
-   0 rps=5000.000050 vProbe=3141592.685006[m/s] massRope=26.205502[fail]
-   1 rps=2500.000075 vProbe=1570796.373919[m/s] massRope=56.023061[fail]
-   2 rps=1250.000088 vProbe=785398.218375[m/s] massRope=17.354548[fail]
-   ...................................................................
-   38 rps=5.490557 vProbe=3449.818551[m/s] massRope=10.000000[fail]
-   39 rps=5.490557 vProbe=3449.818545[m/s] massRope=10.000000[kg]
-   40 rps=5.490557 vProbe=3449.818548[m/s] massRope=10.000000[kg]
+   0 rps=5000.000050 vProbe=3141592.685006[m/s] massRope=26.205502[fail]<br />
+   1 rps=2500.000075 vProbe=1570796.373919[m/s] massRope=56.023061[fail]<br />
+   2 rps=1250.000088 vProbe=785398.218375[m/s] massRope=17.354548[fail]<br />
+   ...................................................................<br />
+   38 rps=5.490557 vProbe=3449.818551[m/s] massRope=10.000000[fail]<br />
+   39 rps=5.490557 vProbe=3449.818545[m/s] massRope=10.000000[kg]<br />
+   40 rps=5.490557 vProbe=3449.818548[m/s] massRope=10.000000[kg]<br />
 
 
 # Example 2
