@@ -116,4 +116,4 @@ Will be use material: [colossal_carbon_tube]
    40 rps=139.473299 vProbe=87633.658472[m/s] massRope=1000.000000[kg]<br />
    41 rps=139.473299 vProbe=87633.658474[m/s] massRope=1000.000000[kg]<br />
    42 rps=139.473299 vProbe=87633.658474[m/s] massRope=1000.000000[fail]<br />
-   43 rps=139.473299 vProbe=87633.658474[m/s] massRope=1000.000000[kg]<br />
+   43 rps=139.473299 <span color='red'>vProbe=87633.658474[m/s]</span> massRope=1000.000000[kg]<br />
